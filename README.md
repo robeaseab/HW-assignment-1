@@ -7,3 +7,5 @@ For this project I organized and analyzed a database of four thousand past proje
 * Created pivot tables to analyze the results
 * Converted dates using unix timestamps
 * VLOOKUP and HLOOKUP
+
+![](https://raw.githubusercontent.com/robeaseab/Kickstarter-Project-Analysis-Excel/master/Screenshot%20(33).png)
